@@ -7,10 +7,7 @@ import Path2 from "assets/images/icons/path-2.svg";
 
 const Hero = (props) => {
   return (
-    <section
-      className="align-items-center"
-      style={{ height: 2000, position: "relative" }}
-    >
+    <section className="align-items-center" style={{ position: "relative" }}>
       <div
         className="align-items-center"
         style={{ position: "relative", height: 579 }}
